@@ -1,5 +1,5 @@
 Name:               Base18
-Summary:            Base18 is a Zope product to implement multilingual portals
+Summary:            Zope product to implement multilingual portals
 Version: 0.2.0
 Release: %mkrel 16
 Group:              Development/Python
