@@ -1,13 +1,12 @@
 Name:               Base18
 Summary:            Zope product to implement multilingual portals
-Version: 0.2.0
-Release: %mkrel 17
+Version:            0.2.0
+Release:            %mkrel 18
 Group:              Development/Python
 Requires:           zope
 License:            GPL
 URL:                http://www.erp5.org
 BuildRoot:          %{_tmppath}/%{name}-%{version}-rootdir
-Buildarch:          noarch
 
 Source: %{name}-%{version}.tar.bz2
 
