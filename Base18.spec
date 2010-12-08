@@ -1,7 +1,7 @@
 Name:               Base18
 Summary:            Zope product to implement multilingual portals
 Version:            0.2.0
-Release:            %mkrel 20
+Release:            %mkrel 21
 Group:              Development/Python
 Requires:           zope
 License:            GPL
