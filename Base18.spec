@@ -5,7 +5,7 @@ Release:            %mkrel 21
 Group:              Development/Python
 Requires:           zope
 License:            GPL
-URL:                http://www.erp5.org
+URL:                https://www.erp5.org
 BuildRoot:          %{_tmppath}/%{name}-%{version}-rootdir
 
 Source: %{name}-%{version}.tar.bz2
